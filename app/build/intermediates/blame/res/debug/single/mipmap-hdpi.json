@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dcissm2/chambcle/AndroidStudioProjects/JeuTaquin/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/dcissm2/chambcle/AndroidStudioProjects/JeuTaquin/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dcissm2/chambcle/AndroidStudioProjects/JeuTaquin/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/dcissm2/chambcle/AndroidStudioProjects/JeuTaquin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

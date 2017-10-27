@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/dcissm2/chambcle/AndroidStudioProjects/JeuTaquin/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/dcissm2/chambcle/.android/build-cache/d31f629f9b0bc25d1818cb4cefcab6741f1ea307/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
